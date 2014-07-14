@@ -4,7 +4,7 @@
 pkgname=rsb-protocol-git
 pkgver=release.0.10.r11.g874f54d
 pkgrel=1
-pkgdesc="Pacman database extraction utility"
+pkgdesc="The Robotics Service Bus (RSB) is a message-oriented, event-driven middleware aiming at scalable integration of robotics systems in diverse environments."
 arch=('i686' 'x86_64')
 url="https://code.cor-lab.org/projects/rsb"
 license=('unknown')

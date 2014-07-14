@@ -4,7 +4,7 @@
 pkgname=rsc-git
 pkgver=release.0.10.r11.g874f54d
 pkgrel=1
-pkgdesc="Pacman database extraction utility"
+pkgdesc="RSC is a Code.CoR-Lab project focused on all aspects of reusable library functions in robotics systems."
 arch=('i686' 'x86_64')
 url="https://code.cor-lab.org/projects/rsc"
 license=('unknown')
